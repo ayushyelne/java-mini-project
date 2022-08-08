@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ASimulatorSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ASimulatorSystem.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
